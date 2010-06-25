@@ -1,0 +1,5 @@
+build/
+bin/
+msg/cpp
+srv/cpp
+src/joystick_ps3
